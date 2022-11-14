@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Mr."
 title_separator          : "-"
 name                     : &name "Yuanze Ding"
-description              : &description "Astrophysicist"
+description              : &description "Graduate Student at Caltech"
 url                      : https://yzding.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Idea1ist/yzding.github.io"
+repository               : "yzding.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuanze Ding"
   avatar           : "profile.png"
-  bio              : "Astrophysicist"
+  bio              : "Black hole, neutron star…I am interested in the most powerful objects in the Universe. I have been working on X-ray binary and Active Galactic Nucleus (AGN) with X-ray satellites since I was an undergrad. My current research includes both theoretical and observational work, like modeling accretion disk reflection and studying AGN-Galaxy co-evolution with X-ray telescopes."
   location         : "Pasadena, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
