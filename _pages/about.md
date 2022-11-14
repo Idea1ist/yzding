@@ -8,16 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm an astrophysicist at the [Institute for Theory and Computation](https://itc.cfa.harvard.edu/) in the [Harvard/Smithsonian Center for Astrophysics](https://www.cfa.harvard.edu/) and a Junior Fellow in the Harvard [Society of Fellows](https://socfell.fas.harvard.edu/about). I also hold a recurring appointment at the [Max Planck Institute for Astronomy](https://www.mpia.de/en) in Heidelberg.
-
-My research is focused on binary stars. I use a combination of large-scale surveys, targeted observations of individual objects, and theoretical stellar evolution calculations to better understand how binaries form, evolved, and interact with their surroundings. I am also interested in Milky Way stellar populations, galaxy formation, and statistical astronomy.  Most generally, I like exploring astronomical datasets, learning new things, and developing methods to extract information from data. 
-
-I [really](https://ui.adsabs.harvard.edu/abs/2020MNRAS.493L..22E/abstract) [do](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3436E/abstract) [not](https://ui.adsabs.harvard.edu/abs/2021arXiv211107925E/abstract) [hate](https://ui.adsabs.harvard.edu/abs/2021arXiv211205030E/abstract) [black](https://ui.adsabs.harvard.edu/abs/2022arXiv220306348E/abstract) [holes](https://arxiv.org/abs/2007.03350). [Seriously](https://ui.adsabs.harvard.edu/abs/2022arXiv220607723E/abstract). But I've cultivated an interest in unusual binaries that can masquerade as them. 
-
-I grew up in Roseburg, Oregon. I was an undergraduate at [Yale University](https://astronomy.yale.edu/) (B.S., astrophysics, 2016) and a graduate student at [UC Berkeley](https://astro.berkeley.edu/) (Ph.D., astrophysics, 2021). I moved to Harvard in 2021. Besides astronomy, I like food, running, hiking and cycling, playing chess, and memes.
-
-I am happy to talk anytime with Harvard grads and undergrads interested in working on a research project.
+This is Yuanze Ding's home on the web! I am interested in the most powerful objects in the Universe. I have been working on X-ray binary and Active Galactic Nucleus (AGN) with X-ray satellites since I was an undergrad. My current research includes both theoretical and observational work, like modeling accretion disk reflection and studying AGN-Galaxy co-evolution with X-ray telescopes.
 
 Contact Me
 ======
-kareem.el-badry@cfa.harvard.edu 
+yding@caltech.edu
