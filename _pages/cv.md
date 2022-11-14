@@ -12,7 +12,7 @@ redirect_from:
 
 
 <h2>Education</h2>  
-* Ph.D, Physics, California Institute of Technology, expected 2027//
+* Ph.D, Physics, California Institute of Technology, expected 2027 <br>
 * B.S, Physics, Wuhan University, 2022
 
 <span style="color:#5DADE2">[My full CV](https://yuanzeding.github.io/files/cv-yzding.pdf)</span>
