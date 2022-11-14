@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mr."
+title                    : "Mr. Yuanze Ding"
 title_separator          : "-"
 name                     : &name "Yuanze Ding"
 description              : &description "Graduate Student at Caltech"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yuanze Ding"
   avatar           : "myphoto_compre.jpg"
-  bio              : "Black hole, neutron star…I am interested in the most powerful objects in the Universe. I have been working on X-ray binary and Active Galactic Nucleus (AGN) with X-ray satellites since I was an undergrad. My current research includes both theoretical and observational work, like modeling accretion disk reflection and studying AGN-Galaxy co-evolution with X-ray telescopes."
+  bio              : "Astrophysicist"
   location         : "Pasadena, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : 
   email            : "yding@caltech.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ding-Yuanze"
   uri              :
   bitbucket        :
   codepen          :
