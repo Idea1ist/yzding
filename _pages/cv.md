@@ -14,7 +14,7 @@ redirect_from:
 <h2>Education</h2>  
 * B.S, Physics, Wuhan University, 2022
 
-<span style="color:#5DADE2">[My full CV](https://Idea1ist.github.io/yzding/files/cv-yzding.pdf)</span>
+<span style="color:#5DADE2">[My full CV](https://yuanzeding.github.io/files/cv-yzding.pdf)</span>
 
 
 
