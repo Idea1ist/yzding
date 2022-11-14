@@ -14,7 +14,7 @@ redirect_from:
 <h2>Education</h2>  
 * B.S, Physics, Wuhan University, 2022
 
-<span style="color:#5DADE2">[My full CV](https://kareemelbadry.github.io/files/El_Badry_Kareem_CV.pdf)</span>
+<span style="color:#5DADE2">[My full CV](https://yzding.github.io/files/yzding_CV.pdf)</span>
 
 
 
