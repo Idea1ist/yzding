@@ -11,9 +11,9 @@ title                    : "Mr."
 title_separator          : "-"
 name                     : &name "Yuanze Ding"
 description              : &description "Graduate Student at Caltech"
-url                      : https://Idea1ist.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Idea1ist.github.io/yzding # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Idea1ist/yzding.github.io"
+repository               : "Idea1ist/yzding"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
